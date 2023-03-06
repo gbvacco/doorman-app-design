@@ -11,3 +11,5 @@ The project is divided into several Git repositories, each with a specific focus
 We welcome all contributions, no matter how big or small. If you're new to development, we encourage you to start by exploring the project and making small changes. As you gain confidence, you can take on more challenging tasks and start contributing more substantially.
 
 Thank you for your interest in the Doorman App Starter Project, and we look forward to working with you!
+
+```PS: I'm a developer, so this can be a little messy, but feel free to help if you have better knowledge on UI/UX. Thanks :)```
